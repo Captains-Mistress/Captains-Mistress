@@ -12,5 +12,5 @@ One repository for all the members' logs. One repository each for every game bei
 * Mehul Mathur →
 * Pooja Desur →
 * Ritvik Aryan Kalra → 2019115002
-* Shivansh Subramanian →
+* Shivansh Subramanian → 2019114003
 * Sidharth Giri → 2019101007
