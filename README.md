@@ -4,7 +4,7 @@ Team for the final project of the Algorihtms Analysis and Design Course (Monsoon
 Here, we are looking to computationally analyze non-luck-based games and (optimal or sub-optimal) algorihtms to play them.
 
 ## Repository Layout
-One repository for all the members' logs. One repository each for every game being analyzed, with all the resources related to that game in that repo.
+One repository for all the members' logs. One repository each for every game being analyzed, with all the resources related to that game in the corresponding repo.
 
 ## Members
 * Arihanth Srikar → 
