@@ -7,7 +7,7 @@ Here, we are looking to computationally analyze non-luck-based games and (optima
 One repository for all the members' logs. One repository each for every game being analyzed, with all the resources related to that game in the corresponding repo.
 
 ## Members
-* Arihanth Srikar → 
+* Arihanth Srikar T → 2019113005
 * Dhruv Kapur → 2019101038
 * Mehul Mathur →
 * Pooja Desur →
